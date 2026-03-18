@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "onebloccxx.aternos.me:26213",
+    "ip": "onebloccxx.aternos.me",
     "port": 26213,
     "version": "",
     "try-creative": false
